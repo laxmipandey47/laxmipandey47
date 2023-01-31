@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laxmipandey47
-- 👀 I’m interested in C++, python languages.
-- 🌱 I’m currently enhancing my skills in Web developement.
-- 💞️ I’m looking to collaborate on open source contribution.
+- 👀 I’m interested in Java, C++, python languages.
+- 🌱 I’m currently grooming my skills in Web developement.
+- 💞️ I’m looking to collaborate on open source projects on front-end or backend projects.
 - 📫 Reach me at linkedin - https://www.linkedin.com/in/laxmipandey47/ 
 
 <!---
